@@ -1,0 +1,22 @@
+{
+  "name": "project_2",
+  "version": "1.0.0",
+  "description": "a simple portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dominic2000code/web-page-basis.git"
+  },
+  "author": "Dominic Bluawofogbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dominic2000code/web-page-basis/issues"
+  },
+  "homepage": "https://Dominic2000code.github.io/web-page-basis",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
